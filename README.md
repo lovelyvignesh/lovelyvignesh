@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vigneswaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width="400" src="https://www.google.com/search?q=programmer+cartoon&tbm=isch&ved=2ahUKEwigx-XEvuL6AhX9zqACHUC_C84Q2-cCegQIABAA&oq=programmer+cartoon&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgQIIxAnOggIABCABBCxA1D5AljyH2CQImgAcAB4AIAB_QGIAdoLkgEFMC44LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=dslKY6C0Mv2dg8UPwP6u8Aw&bih=704&biw=920&rlz=1C1RXQR_enIN992IN992#imgrc=AIUkYbuGTtPQsM">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovelyvignesh&label=Profile%20views&color=0e75b6&style=flat" alt="lovelyvignesh" /> </p>
 
