@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **react**
 
-- ⚡ Fun fact **I am funny**
-
 - 📫 How to reach me **kongu.vignesh.g@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
