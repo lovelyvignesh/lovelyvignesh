@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **go programming...**
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **kongu.vignesh.g@gmail.com**
 
 - 🔭 I’m currently doing intern at **GreyMatter Works**
