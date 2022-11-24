@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovelyvignesh&label=Profile%20views&color=0e75b6&style=flat" alt="lovelyvignesh" /> </p>
 
-- 🌱 I’m currently learning **go programming...**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **kongu.vignesh.g@gmail.com**
 
