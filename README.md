@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently doing intern at **GreyMatter Works**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://www.linkedin.com/in/vignesh-raj-4b576b223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshraj" height="30" width="40" /></a>
 </p>
