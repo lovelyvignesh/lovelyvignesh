@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JAVA<br><br>💬 Ask me about React<br><br>📫 How to reach me kongu.vignesh.g@gmail.com
+🌱 I’m currently learning AWS<br><br>💬 Ask me about React<br><br>📫 How to reach me kongu.vignesh.g@gmail.com
 
 
 # 💻 Tech Stack:
